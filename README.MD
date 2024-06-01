@@ -8,4 +8,5 @@ This project aims to perform sentiment analysis on tweets using machine learning
    ```bash
    git clone https://github.com/Lakshya-2703/Twitter-Sentimental-Analysis-using-API.git
 2. Install the required libraries
+   ```bash
    pip install -r requirements.txt
